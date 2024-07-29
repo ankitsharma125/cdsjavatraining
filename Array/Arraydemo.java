@@ -1,4 +1,4 @@
-package arrayprograms;
+package Array;
 public class Arraydemo {
     public static void main(String[] args) {
         String[] names = {"ankit","aman","arniket","ashutosh","aarav"};

@@ -1,4 +1,4 @@
-package arrayprograms;
+package Array;
 
 public class SortingInAscendingOrder {
         public static void main(String[] args) {
